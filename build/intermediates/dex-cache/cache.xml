@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Demo_projects\android-scaling-holo-progress-bar1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8b297841a30d9b4ed0c0e08e940ec05fac39acaf">
+        <dex dex="D:\Demo_projects\android-scaling-holo-progress-bar1\app\build\intermediates\pre-dexed\debug\instant-run_e8dff4eddd82446454666ff02f471805fb8db3d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Demo_projects\android-scaling-holo-progress-bar1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3553b57f6acf9e309812ade78bdfa4bcedee0a34">
+        <dex dex="D:\Demo_projects\android-scaling-holo-progress-bar1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_22bfad99c1b8ac424510ffda9e86c5692b45a1e7.jar" />
+    </item>
+
+</items>

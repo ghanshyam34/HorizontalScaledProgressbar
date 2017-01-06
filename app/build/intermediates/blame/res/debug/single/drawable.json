@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_holo_light.xml",
+        "source": "D:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\src\\main\\res\\drawable\\progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Demo_projects\\HorizontalScaledProgressbar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_holo_light.xml",
+        "source": "D:\\Demo_projects\\HorizontalScaledProgressbar\\app\\src\\main\\res\\drawable\\progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rating2.xml",
+        "source": "D:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\src\\main\\res\\drawable\\rectangle_rating2.xml"
+    },
+    {
+        "merged": "D:\\Demo_projects\\HorizontalScaledProgressbar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rating1.xml",
+        "source": "D:\\Demo_projects\\HorizontalScaledProgressbar\\app\\src\\main\\res\\drawable\\rectangle_rating1.xml"
+    },
+    {
+        "merged": "D:\\Demo_projects\\HorizontalScaledProgressbar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rating2.xml",
+        "source": "D:\\Demo_projects\\HorizontalScaledProgressbar\\app\\src\\main\\res\\drawable\\rectangle_rating2.xml"
+    },
+    {
+        "merged": "D:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_rating1.xml",
+        "source": "D:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\src\\main\\res\\drawable\\rectangle_rating1.xml"
+    }
+]

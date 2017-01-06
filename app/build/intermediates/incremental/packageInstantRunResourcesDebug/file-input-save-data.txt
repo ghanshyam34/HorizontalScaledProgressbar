@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Wed Dec 28 18:25:58 IST 2016
+2.base=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\rectangle.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_base.xml
+4.base=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\progress_primary_holo_light.9.png
+5.base=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_base.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\rectangle2.xml
+10.base=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\progress_bg_holo_light.9.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\progress_horizontal_holo_light.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Demo_projects\\HorizontalScaledProgressbar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Demo_projects\\HorizontalScaledProgressbar\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "outputFile": "D:\\Demo_projects\\HorizontalScaledProgressbar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "D:\\Demo_projects\\HorizontalScaledProgressbar\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 64,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 120,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "D:\\Demo_projects\\HorizontalScaledProgressbar\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 252
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 67,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "D:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 67,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "D:\\Demo_projects\\android-scaling-holo-progress-bar1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 252
+                    }
+                }
+            }
+        ]
+    }
+]
